@@ -1,0 +1,14 @@
+{
+  "name": "shizune",
+  "description": "Shizune, your assistant for Claude Code",
+  "owner": {
+    "name": "mfouad"
+  },
+  "plugins": [
+    {
+      "name": "shizune",
+      "source": "./",
+      "description": "Shizune, your assistant for Claude Code. Includes the Idea Board mod: a task list beside the chat with todo: capture and a session from any task."
+    }
+  ]
+}

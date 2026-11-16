@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Shizune, buried in paperwork"><title>Shizune, buried in paperwork</title>
+  <rect width="128" height="128" rx="28" fill="#5E8FE0"/>
+  <line x1="44" y1="8" x2="86" y2="28" stroke="#F5B83D" stroke-width="5" stroke-linecap="round"/>
+  <line x1="84" y1="27" x2="88" y2="29" stroke="#2B2540" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="64" cy="20" r="12" fill="#2B2540"/>
+  <circle cx="64" cy="66" r="40" fill="#FFE9D6" stroke="#2B2540" stroke-width="4"/>
+  <path d="M24.2,62 A40,40 0 0 1 103.8,62 Q84,46 64,54 Q44,46 24.2,62 Z" fill="#2B2540"/>
+  <ellipse cx="50" cy="74" rx="3.5" ry="4.5" fill="#2B2540"/><ellipse cx="78" cy="74" rx="3.5" ry="4.5" fill="#2B2540"/><path d="M43,66 L56,62" fill="none" stroke="#2B2540" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M85,66 L72,62" fill="none" stroke="#2B2540" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M102,52 q5.0,8.0 0,11.0 q-5.0,-3.0 0,-11.0 z" fill="#6EC1F5" stroke="#2B2540" stroke-width="1.5"/>
+  <g transform="rotate(3 64 116)"><rect x="22" y="108" width="84" height="16" rx="3" fill="#FFFFFF" stroke="#2B2540" stroke-width="3"/><line x1="32" y1="116" x2="78" y2="116" stroke="#C9C3D9" stroke-width="2.5" stroke-linecap="round"/></g><g transform="rotate(-4 64 107)"><rect x="22" y="99" width="84" height="16" rx="3" fill="#FFFFFF" stroke="#2B2540" stroke-width="3"/><line x1="32" y1="107" x2="72" y2="107" stroke="#C9C3D9" stroke-width="2.5" stroke-linecap="round"/></g><g transform="rotate(2 64 98)"><rect x="22" y="90" width="84" height="16" rx="3" fill="#FFFFFF" stroke="#2B2540" stroke-width="3"/><line x1="32" y1="98" x2="66" y2="98" stroke="#C9C3D9" stroke-width="2.5" stroke-linecap="round"/></g><g transform="rotate(-2 64 89)"><rect x="22" y="81" width="84" height="16" rx="3" fill="#FFFFFF" stroke="#2B2540" stroke-width="3"/><line x1="32" y1="89" x2="60" y2="89" stroke="#C9C3D9" stroke-width="2.5" stroke-linecap="round"/></g>
+</svg>

@@ -1,0 +1,9 @@
+{
+  "name": "shizune",
+  "version": "0.1.0",
+  "description": "Shizune, your assistant for Claude Code. Includes the Idea Board mod: a task list beside the chat, todo: capture from messages, and a session from any task.",
+  "author": {
+    "name": "mfouad"
+  },
+  "types": "./types/index.d.ts"
+}

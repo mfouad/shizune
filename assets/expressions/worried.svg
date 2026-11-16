@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Shizune, worried"><title>Shizune, worried</title>
+  <rect width="128" height="128" rx="28" fill="#F2C35B"/>
+  <line x1="44" y1="12" x2="86" y2="32" stroke="#F5B83D" stroke-width="5" stroke-linecap="round"/>
+  <line x1="84" y1="31" x2="88" y2="33" stroke="#2B2540" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="64" cy="24" r="12" fill="#2B2540"/>
+  <circle cx="64" cy="70" r="40" fill="#FFE9D6" stroke="#2B2540" stroke-width="4"/>
+  <path d="M24.2,66 A40,40 0 0 1 103.8,66 Q84,50 64,58 Q44,50 24.2,66 Z" fill="#2B2540"/>
+  <ellipse cx="50" cy="79" rx="3.5" ry="4.5" fill="#2B2540"/><ellipse cx="78" cy="79" rx="3.5" ry="4.5" fill="#2B2540"/><path d="M43,71 L56,67" fill="none" stroke="#2B2540" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M85,71 L72,67" fill="none" stroke="#2B2540" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M55,96 Q59,92 64,96 Q69,100 73,96" fill="none" stroke="#2B2540" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M102,56 q5.0,8.0 0,11.0 q-5.0,-3.0 0,-11.0 z" fill="#6EC1F5" stroke="#2B2540" stroke-width="1.5"/>
+</svg>
